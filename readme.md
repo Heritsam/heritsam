@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-> I'm a Fullstack Developer even though I'm currently focusing as a Mobile Developer, mainly using Flutter.
+'m a Fullstack Developer even though I'm currently focusing as a Mobile Developer, mainly using Flutter.
 
 - 😐 Pronouns: `he/him/his`
 - 💻 Currently learning `Golang`
