@@ -1,6 +1,7 @@
 ## 🪴 Ariq Heritsa Maalik
 
 - Pronouns `he/him/his`
+- `Data Science Student` at `Telkom University`
 - Fluent in `dart`, `go`, `python`, `php`, `javascript`
 - Experienced with `flutter`, `laravel`
 - Also writes using `c++`, `java`
