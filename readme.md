@@ -15,6 +15,7 @@
 - 🏫 School: <a href="mailto:heritsam@student.telkomuniversity.ac.id">heritsam@student.telkomuniversity.ac.id</a> | <a href="mailto:heritsam@365.telkomuniversity.ac.id">heritsam@365.telkomuniversity.ac.id</a>
 - 📷 Instagram: <a href="https://instagram.com/heritsam_">@heritsam_</a>
 - 🌏 Website: <a href="https://heritsam.space">heritsam.space</a>
+- 📄 Resume: <a href="https://resume.heritsam.space">resume.heritsam.space</a>
 
 ### Badges
 <img src="https://user-images.githubusercontent.com/38836505/178148315-251de64e-47bc-406b-9cac-98f25ac6ff51.png"
