@@ -5,7 +5,6 @@
 - Fluent in `dart`, `go`, `python`, `php`, `javascript`
 - Experienced with `flutter`, `laravel`
 - Also writes using `c++`, `java`
-- Also plays `guitar`
 
 ### Reach me
 
