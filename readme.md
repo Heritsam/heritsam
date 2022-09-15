@@ -19,7 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heritsam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!---
 [![Heritsam's github stats](https://github-readme-stats.vercel.app/api?username=Heritsam)](https://github.com/Heritsam/github-readme-stats)
+-->
 
 ### Badges
 <img src="https://user-images.githubusercontent.com/38836505/178148315-251de64e-47bc-406b-9cac-98f25ac6ff51.png"
