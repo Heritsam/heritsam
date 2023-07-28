@@ -11,7 +11,7 @@
 - 📧 Email: <a href="mailto:ariqhm@gmail.com">ariqhm@gmail.com</a>
 - 🏫 School: <a href="mailto:heritsam@student.telkomuniversity.ac.id">heritsam@student.telkomuniversity.ac.id</a>
 - 📷 Instagram: <a href="https://instagram.com/heritsam_">@heritsam_</a>
-- 🌏 Website: <a href="https://heritsam.space">heritsam.space</a>
+- 🌏 Website: <a href="https://heritsam.dev">heritsam.dev</a>
 - 📄 Resume: <a href="https://resume.heritsam.space">resume.heritsam.space</a>
 
 
