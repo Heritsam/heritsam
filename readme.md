@@ -4,7 +4,7 @@
 - `Data Science Student` at `Telkom University`
 - Fluent in `dart`, `go`, `python`, `typescript`
 - Experienced with `mobile apps`
-- Currently learning/interested in `cloud computing`, `data engineering`, `rust`
+- Currently learning/interested in `cloud computing`, `data engineering`, `analytics engineering`, `dbt`
 
 ### How to reach me
 
