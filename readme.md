@@ -1,10 +1,10 @@
 ## 🪴 Ariq Heritsa Maalik
 
-### Who am I
+### Get to know me
 - `Data Science Student` at `Telkom University`
-- Fluent in `dart`, `go`, `python`, `typescript`
-- Experienced with `mobile apps`
-- Currently learning/interested in `cloud computing`, `data engineering`, `analytics engineering`, `dbt`
+- Mainly code with `typescript`, `python`, `dart`, and `go`
+- Experienced in `mobile developer` and `front-end developer`
+- Currently learning/interested in `web3`, and `data engineering`
 
 ### How to reach me
 
