@@ -1,10 +1,9 @@
 ## 🪴 Ariq Heritsa Maalik
 
 ### Get to know me
-- `Data Science Student` at `Telkom University`
+- I do almost everything: AI engineering, front-end, back-end, design, and product.
 - Mainly code with `typescript`, `python`, `dart`, and `go`
-- Experienced in `mobile developer` and `front-end developer`
-- Currently learning/interested in `web3`, and `data engineering`
+- `Data Science Graduate` at `Telkom University`
 
 ### How to reach me
 
