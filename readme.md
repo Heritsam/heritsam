@@ -1,11 +1,19 @@
-## 🪴 Ariq Heritsa Maalik
+<table>
+<tr>
+<td width="54%" valign="middle">
 
-### Get to know me
-- I do almost everything: AI engineering, front-end, back-end, design, and product.
-- Mainly code with `typescript`, `python`, `dart`, and `go`
-- `Data Science Graduate` at `Telkom University`
+<h1>Think clearly.<br>Then build it.</h1>
 
-### How to reach me
+I'm **Ariq Heritsa Maalik**, an AI engineer in Indonesia. I build full-stack AI systems and the products around them, from the data pipeline to the last pixel.
 
-- 📧 Email: <a href="mailto:ariqhm@gmail.com">ariqhm@gmail.com</a>
-- 🌏 Website: <a href="https://heritsam.dev">heritsam.dev</a>
+<a href="https://heritsam.dev"><b>heritsam.dev</b></a> | <a href="mailto:ariqhm@gmail.com">ariqhm@gmail.com</a> | <a href="https://linkedin.com/in/heritsam">LinkedIn</a>
+
+</td>
+<td width="46%" align="center">
+
+<img src="owl-dark.svg#gh-dark-mode-only" alt="A barn owl on a broken trunk, drawn in text" width="340">
+<img src="owl-light.svg#gh-light-mode-only" alt="A barn owl asleep on a broken trunk under a sun, drawn in text" width="340">
+
+</td>
+</tr>
+</table>
